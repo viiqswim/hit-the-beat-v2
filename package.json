@@ -10,7 +10,7 @@
   "dependencies": {
     "jquery": "^1.12.4",
     "phaser": "3.22.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
